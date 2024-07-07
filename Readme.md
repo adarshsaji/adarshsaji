@@ -6,12 +6,14 @@ Data science professional with 2+ years of experience in machine learning, stati
 
 🚀 My motto: "Data is the new oil; let's refine it."
 
-💻 Programming Languages: Python, R, SQL
+💻 Programming Languages: Python, R, Java, C++, JavaScript, SQL
 
-🔧 Technologies & Tools: TensorFlow, Scikit-learn, PyTorch, Keras, Langchain, AWS, Azure, Java, JavaScript, Angular, C++, Hadoop, Spark, Tableau, PowerBI, ETL Processes, Data Warehousing, NLP, Git, Shell scripting, Documentation, Version Control
+🔧 Technologies & Tools: TensorFlow, Scikit-learn, PyTorch, Keras, Langchain, Streamlit, Django, Angular, 
+                RESTful APIs, FastAPI, PostgreSQL, MySQL, MongoDB, Apache Airflow, Apache Spark, Tableau, PowerBI, Docker, Kubernetes, Data Warehousing, 
+                Shell scripting, Documentation
 
-☁️ Cloud: AWS, Azure, GCP, IBM Cloud
+☁️ Cloud: CI/CD, Git, Bitbucket, Gitlab, AWS: Sagemaker, Fargate, CodePipeline, S3, EC2,  Lambda; GCP: AI Platform, Google Cloud Run, Google Cloud Build, Google Cloud Storage, Google Compute Engine, Google Cloud Functions; Azure: Azure Machine Learning, Azure Container Instances, Azure DevOps Pipelines, Azure Blob Storage, Azure Virtual Machines, Azure Functions
 
 📊 Methodologies: SCRUM, Agile, TDD
 
-🌐 Interests: Machine Learning, Deep Learning, Statistical Modelling, NLP, LLM
+🌐 Interests: Machine Learning, Deep Learning, NLP, LLM, RPA
